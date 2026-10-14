@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/melissa-mccarthy-s-weight-loss-diet-mindset-us-ca-/sitemap.xml
+Sitemap: https://melissa-mccarthy-s-weight-loss-diet-mindset-us-ca-.vercel.app/sitemap-vercel.xml
+Sitemap: https://melissa-mccarthy-s-weight-loss-diet-mindset-us-ca-.pages.dev/sitemap-cloudflare.xml
